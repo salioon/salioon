@@ -3,7 +3,7 @@
 
 🐧 *soy un fan del software libre*
 
-⚾️ *actualmente estoy aprendiendo Programacion*
+😎 *actualmente estoy aprendiendo Programacion*
 
 
 ##
