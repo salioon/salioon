@@ -5,6 +5,7 @@
 
 😎 *actualmente estoy aprendiendo Programacion*
 
+[![salioon](https://github-readme-stats.vercel.app/api/top-langs/?username=salioon&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 <p align="left">
@@ -28,7 +29,7 @@
 <code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"/></code>
 
 ---
-
+[![card](https://github-readme-stats.vercel.app/api?username=salioon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 salioon/salioon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
