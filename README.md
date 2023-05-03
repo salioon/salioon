@@ -13,13 +13,19 @@
 <h3 align="left">🚀 Aprendiendo :</h3>
 <p align="left"> 
 
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="bash"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginix"/></code>
+<code><img height="32" src="https://api.iconify.design/logos-hugo.svg" alt="hugo"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"/></code>
+<code><img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT"/></code>
 
 ---
 
