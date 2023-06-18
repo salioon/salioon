@@ -5,7 +5,7 @@
 
 😎 *actualmente estoy aprendiendo Programacion*
 
-[![salioon](https://github-readme-stats.vercel.app/api/top-langs/?username=salioon&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+#[![salioon](https://github-readme-stats.vercel.app/api/top-langs/?username=salioon&hide=html&layout=compact=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)#
 
 ##
 <p align="left">
